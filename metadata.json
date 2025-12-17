@@ -1,0 +1,5 @@
+{
+  "name": "TruthLens - Fake Review Detector",
+  "description": "An AI-powered tool that analyzes product URLs to detect fake reviews, providing a legitimacy score and detailed insights.",
+  "requestFramePermissions": []
+}
